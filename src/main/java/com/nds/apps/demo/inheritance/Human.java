@@ -4,8 +4,6 @@ public class Human extends Mamals{
 
     boolean canSpeak;
 
-
-
     public Human() {
         super(2, false);
     }
