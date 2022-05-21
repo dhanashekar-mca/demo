@@ -9,6 +9,6 @@ public class CallByDemo {
         System.out.println("input variable="+input);
         System.out.println("------------------------------------------------------------------------------------------");
 
-       
+
     }
 }
