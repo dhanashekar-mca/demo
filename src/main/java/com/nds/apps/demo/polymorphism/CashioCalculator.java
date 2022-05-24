@@ -7,6 +7,7 @@ public class CashioCalculator extends CalculatorPoly{
         return y;
     }
 
+    @Override
     public int add(int a,int b){
         int x=a+b;
         System.out.println("CashioCalculator method result="+x);
